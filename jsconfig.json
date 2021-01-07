@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "module": "system"
+  },
+  "exclude": ["node_modules"]
+}
