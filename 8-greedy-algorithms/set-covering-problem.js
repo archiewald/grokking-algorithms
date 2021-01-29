@@ -26,7 +26,6 @@ function findCoveringStations(statesForStations, statesNeeded) {
 
     _statesNeeded = difference(_statesNeeded, statesCovered);
     coveringStations.add(bestStation);
-    debugger;
   }
 
   return coveringStations;
