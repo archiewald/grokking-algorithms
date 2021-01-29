@@ -1,6 +1,6 @@
 const { findCoveringStations } = require("./set-covering-problem");
 
-it("should find stations which covers all the states", () => {
+xit("should find stations which covers all the states", () => {
   const statesForStations = {
     stationOne: new Set(["id", "nv", "ut"]),
     stationTwo: new Set(["wa", "id", "mt"]),
